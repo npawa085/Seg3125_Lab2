@@ -3,7 +3,7 @@
 
 var products = [
 	{
-		name: "milk",
+		name: "Milk",
 		nutAllergy: true,
 		lactoseIntolerant: false,
 		price: 2.50
@@ -15,23 +15,53 @@ var products = [
 		price: 3.50
 	},
 	{
-		name: "salmon",
+		name: "Salmon",
 		nutAllergy: true,
 		lactoseIntolerant: true,
 		price: 10.00
 	},
     {
-		name: "peanuts",
+		name: "Peanuts",
 		nutAllergy: false,
 		lactoseIntolerant: true,
 		price: 1.70
 	},
     {
-		name: "cheese",
+		name: "Cheese",
 		nutAllergy: true,
 		lactoseIntolerant: false,
 		price: 4.33
-	}
+	},
+    {
+		name: "Kidney Beans",
+		nutAllergy: true,
+		lactoseIntolerant: true,
+		price: 8.99
+	},
+    {
+		name: "Lettuce",
+		nutAllergy: true,
+		lactoseIntolerant: true,
+		price: 2.25
+	},
+    {
+		name: "Spinach",
+		nutAllergy: true,
+		lactoseIntolerant: true,
+		price: 2.35
+	},
+    {
+		name: "Almonds",
+		nutAllergy: false,
+		lactoseIntolerant: true,
+		price: 4.50
+	},
+    {
+		name: "Cashews",
+		nutAllergy: false,
+		lactoseIntolerant: true,
+		price: 4.50
+	},
 ];
 	
 
