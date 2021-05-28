@@ -24,13 +24,13 @@ var products = [
 		name: "peanuts",
 		nutAllergy: false,
 		lactoseIntolerant: true,
-		price: 10.00
+		price: 1.70
 	},
     {
 		name: "cheese",
 		nutAllergy: true,
-		lactoseIntolerant: fasle,
-		price: 10.00
+		lactoseIntolerant: false,
+		price: 4.33
 	}
 ];
 	
